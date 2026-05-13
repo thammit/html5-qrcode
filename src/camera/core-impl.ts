@@ -205,7 +205,7 @@ class RenderedCameraImpl implements RenderedCamera {
                 aspectRatioConstraint);
         }
 
-        renderedCamera.setupSurface();
+       renderedCamera.setupSurface();
         return renderedCamera;
     }
 
